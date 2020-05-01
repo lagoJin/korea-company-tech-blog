@@ -78,5 +78,3 @@
 ### A-Z Companies
 
 - [SK C&C](https://medium.com/dtevangelist)
-
-#### RP & ISSUE 환영
