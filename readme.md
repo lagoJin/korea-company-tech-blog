@@ -3,7 +3,7 @@
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-companies)  | [ㄱ](#ㄱ-companies)  | [ㄴ](#ㄴ-companies)  | [ㄷ](#ㄷ-companies)  | [ㄹ](#ㄹ-companies)  | [ㅁ](#ㅁ-companies)  | [ㅂ](#ㅂ-companies)  | [ㅅ](#ㅅ-companies)  | [ㅇ](#ㅇ-companies)  |
-| [ㅈ](#ㅈ-companies)  | [ㅊ](#ㅊ-companies)  | [ㅋ](#ㅋ-companies)  | [ㅌ](#ㅌ-companies)  | [ㅍ](#ㅍ-companies)  | [ㅎ](#ㅎ-companies)
+| [ㅈ](#ㅈ-companies)  | [ㅊ](#ㅊ-companies)  | [ㅋ](#ㅋ-companies)  | [ㅌ](#ㅌ-companies)  | [ㅍ](#ㅍ-companies)  | [ㅎ](#ㅎ-companies)  | [A-Z](#A-Z-companies)
 
 ### ㄱ Companies
 
@@ -25,7 +25,7 @@
 - [리멤버](https://blog.dramancompany.com/)
 - [레진](https://tech.lezhin.com/)
 
-### ㅁ Compnaies
+### ㅁ Companies
 
 - [마켓컬리](https://helloworld.kurly.com/)
 - [매스프레소](https://medium.com/qandastudy)
@@ -74,3 +74,9 @@
 ### ㅎ Companies
 
 - [하이퍼커넥트](https://hyperconnect.github.io/)
+
+### A-Z Companies
+
+- [SK C&C](https://medium.com/dtevangelist)
+
+#### RP & ISSUE 환영
