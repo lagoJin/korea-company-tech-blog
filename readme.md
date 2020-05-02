@@ -34,6 +34,7 @@
 ### ㅂ Companies
 
 - [번개장터](https://bunjang.github.io/)
+- [브랜디](http://labs.brandi.co.kr/)
 - [비트윈](http://engineering.vcnc.co.kr/)
 - [빙글](https://medium.com/vingle-tech-blog)
 - [뱅크샐러드](https://blog.banksalad.com/tech/)
